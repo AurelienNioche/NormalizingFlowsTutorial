@@ -1,6 +1,6 @@
 ### View
 
-You can view the tutorial [here](https://github.com/AurelienNioche/NormalizingFlowsTutorial/normalizing-flows-tutorial.html) and download it [here](https://github.com/AurelienNioche/NormalizingFlowsTutorial). 
+You can view the tutorial [here](https://aureliennioche.github.io/NormalizingFlowsTutorial/normalizing-flows-tutorial.html) and download it [here](https://github.com/AurelienNioche/NormalizingFlowsTutorial). 
 
 ### Contact
 
